@@ -1,0 +1,252 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+
+body{	
+	height: 100%;
+	width: 100%;	
+}
+.mynavbar{
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+	max-height: 75px;
+}
+
+.mynavcolor{
+	background-color: #212121
+}
+
+.navico{
+	height: 55px;
+	width: 100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navcolor{
+	color: #57c09d;
+	font-weight: bold;
+	font-size: 110%;
+	margin-top: 10px;
+}
+
+.navfont{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 110%;
+	margin-top: 10px;
+}
+
+.mynavmargin{
+	margin-left:50px;
+}
+
+.mynavtextmargin{
+	margin-right: 50px;
+}
+
+.myrelative{
+	height: 100%;
+	position: relative;
+}
+
+.mynoborders{	
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.bg1{
+	background-repeat: no-repeat;
+    left: 0;
+    top: 0;
+    width: 100%;
+   	min-height: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(bg1.jpg);
+    background-attachment: fixed;
+}
+
+.mytext1{	
+	font-size: 72px;
+    font-weight: 700;
+    color: #202020;
+	margin-right: 400px;
+	margin-top: 175px;
+}
+
+.mytext2{
+	margin-top: 50px;
+	margin-right: 400px;
+	margin-bottom: 375px;
+	font-size: 130%;
+	line-height: 150%;
+}
+
+.appimg1{
+	max-width: 100%;
+	height: auto;
+}
+
+.appimg2{
+	width: 100%;
+	height: auto;
+	padding: 8px;
+}
+
+.downloadtxt{
+    font-size: 27px;
+    font-weight: 700;
+}
+
+.sectiong{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #EFEFEF; 
+}
+
+.sectionw{
+	padding-top: 100px;
+	padding-bottom: 100px;	
+}
+
+.sectionb{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #212121; 
+}
+
+.player{
+	height: 562px;
+	width: 945px;
+}
+
+.imgbulb{
+	margin-bottom: 30px;
+}
+
+.aideia{
+	margin-bottom: 70px;
+}
+
+.textoabout{
+	font-size: 130%;
+	line-height: 150%;
+}
+
+.titletexts{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.explaintexts{
+	font-size: 120%;
+	line-height: 130%;
+}
+
+.bg2{
+	background-repeat: no-repeat;
+    left: 0;
+    top: 0;
+    width: 100%;
+   	min-height: 100%;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(bg2.jpg);
+    background-attachment: fixed;
+}
+
+.whiteblur{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	background-color: rgba(84,84,84,0.5);
+}
+
+.fact{
+	margin-top: 50px;
+	font-weight: 700px;
+	letter-spacing: 3px;
+	font-size: 150%;
+	color: white;
+}
+
+.motivtext{
+	margin-top: 100px;
+	font-size: 170%;
+}
+
+.number{
+	color: white;
+}
+
+.info{
+	color: white;
+}
+
+.myfunctiontitle{
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.myfunctioncontent{
+	margin-top: 50px;
+	margin-left: 75px;
+	margin-right: 50px;
+	line-height: 150%;
+}
+
+.myfunctiontitleimg{
+	max-width: 99%;
+}
+
+.myspacing{
+	margin-top: 50px;
+}
+
+.staffimg{
+	height: auto;
+	max-width: 100%;
+}
+
+.whitefont{
+	color: white;
+}
+
+.whitefonttitle{
+	color: white;
+}
+
+.whitefontutitle{
+	color: white;
+	margin-bottom: 50px;
+}
+
+h2.whitefont{
+	font-size: 100%;
+}
+
+p.whitefont{
+	font-size: 90%
+}
+
+.partner{
+	max-width: 310px;
+	height: auto;
+}
+
+.pttitle{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.gray{
+	color: #959595;
+}
+
+.ctct{
+	margin-top: 30px;
+}
